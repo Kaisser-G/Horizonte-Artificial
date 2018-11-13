@@ -323,6 +323,8 @@ namespace Horizonte_Artificial
             grafico.DrawLine(lapizBlanco, brgR[0], brgR[1]);
             grafico.DrawLine(lapizBlanco, brgL[0], brgL[1]);
 
+            //pal github
+
                 //IMPORTANTE colocar la imagen creada en el picturebox al final de la funcion
                 pictureBox1.Image = horizonte;
         }
